@@ -1,4 +1,4 @@
-- 👋 21 anos
+- 👋 22 anos
 - 👀 Estudando Python
 - 📫 Discord: gab#4567
 - 🤠 @elppih
