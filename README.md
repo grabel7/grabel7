@@ -1,5 +1,6 @@
 - 👋 22 anos
-- 👀 Estudando Python, Linux & Django
+- 👀 Estudando Python, Linux & Django. 
+- 😱 Faculdade de ADS
 - 📫 Discord: gab#4567
 - 🤠 @elppih
 - [HackerRank](https://www.hackerrank.com/gabrielhippler)
