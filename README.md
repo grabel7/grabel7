@@ -1,5 +1,5 @@
 - 👋 22 anos
-- 👀 Estudando Python, Linux & Django. 
+- 👀 Estudando Python, Linux & JS. 
 - 😱 Faculdade de ADS
 - 📫 Discord: gab#4567
 - 🤠 @elppih
