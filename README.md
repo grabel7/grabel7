@@ -1,7 +1,7 @@
 - 👋 22 anos
-- 👀 Estudando Python, Linux & JavaScript. 
-- 😱 Faculdade de ADS
-- 📫 Discord: gab#4567
+- 👀 Estudando TypeScript!
+- 😱 Faculdade de Análise e Desenvolvimento de Sistemas
+- 📫 Conheça meus projetos em JavaScript e Python.
 
 <!---
 grabel7/grabel7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
