@@ -1,5 +1,5 @@
 - 👋 22 anos
-- 👀 Estudando TypeScript!
+- 👀 Estudando ASP .NET!
 - 😱 Faculdade de Análise e Desenvolvimento de Sistemas
 - 📫 Conheça meus projetos em JavaScript e Python.
 
