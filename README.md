@@ -1,7 +1,7 @@
 - 👋 22 anos
 - 👀 Estudando ASP .NET!
 - 😱 Faculdade de Análise e Desenvolvimento de Sistemas
-- 📫 Conheça meus projetos em JavaScript e Python.
+- 📫 Conheça meus projetos em C# e TypeScript
 
 <!---
 grabel7/grabel7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
