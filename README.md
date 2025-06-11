@@ -11,9 +11,6 @@ I am a dedicated and forward-thinking software developer currently pursuing a de
 - **Database:** SQLite
 - **Other Skills:** HTML, CSS, JavaScript
 
-## 💼 Professional Experience
-
-- **Current Position:** Software Developer at IBM.
 
 ## 🌐 Projects
 
