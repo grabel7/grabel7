@@ -1,16 +1,14 @@
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Front-end:** Angular
-- **Back-end:** C# (ASP.NET API)
-- **Database:** SQLite
-- **Other Skills:** HTML, CSS, JavaScript
-
-
+- **Back-end:** C# (ASP.NET)
+- **Azure**
+  
 ## 🌐 Projects
 
 ### [RemikuProj](#) - [GitHub Repository](https://github.com/grabel7/ReMikuProj)
 
-An innovative music hub developed with Angular, C#, and SQLite.
+A music hub developed with Angular, C#, and SQLite.
 
 ### [MikuProj.js](#) - [GitHub Repository](https://github.com/grabel7/MikuProj)
 
